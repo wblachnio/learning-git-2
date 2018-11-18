@@ -1,0 +1,50 @@
+body {
+    background-color: #3498db;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+
+.hero {
+    height: 400px;
+    line-height: 360px;
+    background-image: url('http://pamis.org.uk/site/uploads/musicworkshop-image.jpg');
+    background-size: cover;
+}
+
+.hero h1 {
+    font-size: 36px;
+    color: #3498db;
+}
+
+.container {
+    width: 100%;
+    max-width: 768px;
+    margin: 20px auto;
+    border-radius: 4px;
+    background-color: #fff;
+    padding: 20px;
+}
+
+.header {
+    text-align: center;
+    background: #3498db;
+    padding: 10px;
+    color: #fff;
+}
+
+.content h2,
+p {
+    text-align: center;
+}
+
+h1,
+.footer {
+    text-align: center;
+    color: #fff;
+    margin: 0;
+    padding: 20px;
+}
+
+.footer {
+    background: #2980b9;
+}
