@@ -1,0 +1,26 @@
+{
+  "name": "learning-git",
+  "version": "1.0.0",
+  "description": "Twoim zadaniem będzie założenie nowego repozytorium o nazwie learning-git-2 i wypełnienie go commitami.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.3",
+    "nu-html-checker": "^0.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wblachnio/learning-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wblachnio/learning-git/issues"
+  },
+  "homepage": "https://github.com/wblachnio/learning-git#readme"
+}
