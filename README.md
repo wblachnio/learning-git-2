@@ -1,5 +1,7 @@
 # Zadanie: Pierwsze repozytorium na Githubie
 
+# https://wblachnio.github.io/learning-git-2/
+
 Twoim zadaniem będzie założenie nowego repozytorium o nazwie learning-git-2 i wypełnienie go commitami.
 
 W poniższej instrukcji piszemy tylko co masz do zrobienia, ale nie podajemy kiedy masz wykonać które komendy. Zdecyduj samodzielnie m.in. kiedy zapisywać commity czy jakich użyć tagów HTML. Efektem Twoich prac ma być strona z tekstem piosenki, wykonana zgodnie z dobrymi praktykami, zarówno pod względem kodu jak i korzystania z Gita.
